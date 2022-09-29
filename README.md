@@ -22,6 +22,3 @@ To get the original text file run the following command on terminal :-
 g++ decode.cpp
 ./a.out encoded_message.txt mapper.txt output.txt
 ```
-
-## License
-[MIT](https://github.com/caesar1551/Text-Compressor/blob/master/LICENSE)
